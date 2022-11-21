@@ -22,6 +22,7 @@
     "@koa/cors": "^4.0.0",
     "faker": "^6.6.6",
     "forever": "^4.0.3",
+    "http": "^0.0.1-security",
     "http-event-stream": "^0.2.0",
     "koa": "^2.13.4",
     "koa-body": "^6.0.1",
