@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prestart": "npm install",
     "start": "forever server.js",
     "watch": "forever -w server.js"
   },
@@ -20,7 +19,7 @@
   "homepage": "https://github.com/JuliaSenina/Polling_B#readme",
   "dependencies": {
     "@koa/cors": "^4.0.0",
-    "faker": "^6.6.6",
+    "faker": "^5.5.3",
     "forever": "^4.0.3",
     "http": "^0.0.1-security",
     "http-event-stream": "^0.2.0",
